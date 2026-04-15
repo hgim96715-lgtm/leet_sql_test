@@ -11,7 +11,7 @@ WITH join_two AS (
 SELECT 
     request_at AS Day,
     ROUND(
-        SUM(IF(status != 'completed', 1, 0)) / COUNT(*), 
+       SUM(status != 'completed') / COUNT(*),
         2
     ) AS "Cancellation Rate"
 FROM join_two
