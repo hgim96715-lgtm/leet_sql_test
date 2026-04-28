@@ -3,7 +3,7 @@ WITH cnt_num AS (
     SELECT num
     FROM MYNumbers
     GROUP BY num
-    HAVING COUNT(num)=1
+    HAVING COUNT(*)=1
 )
 SELECT MAX(num) AS num
 FROM cnt_num
