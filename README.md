@@ -33,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
