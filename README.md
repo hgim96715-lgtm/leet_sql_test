@@ -42,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1148-article-views-i) |
+| [1164-product-price-at-a-given-date](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1164-product-price-at-a-given-date) |
 <!---LeetCode Topics End-->
