@@ -52,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1341-movie-rating](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
