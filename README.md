@@ -54,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1393-capital-gainloss) |
 <!---LeetCode Topics End-->
