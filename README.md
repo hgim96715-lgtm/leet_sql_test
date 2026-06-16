@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/0177-nth-highest-salary) |
@@ -69,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Easy/1873-calculate-special-bonus/) | Easy |
 <!---LeetCode Topics End-->
