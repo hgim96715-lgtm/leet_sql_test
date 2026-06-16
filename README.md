@@ -70,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/hgim96715-lgtm/leet_sql_test/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Easy/1873-calculate-special-bonus/) | Easy |
+| [1890-the-latest-login-in-2020](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/MySQL/Easy/1890-the-latest-login-in-2020/) | Easy |
 <!---LeetCode Topics End-->
