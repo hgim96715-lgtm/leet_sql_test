@@ -72,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-calculate-special-bonus](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Easy/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/MySQL/Easy/1890-the-latest-login-in-2020/) | Easy |
 | [1907-count-salary-categories](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Medium/1907-count-salary-categories/) | Medium |
+| [1934-confirmation-rate](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Medium/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
