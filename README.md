@@ -76,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Medium/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Medium/1934-confirmation-rate/) | Medium |
 | [1965-employees-with-missing-information](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Easy/1965-employees-with-missing-information/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Easy/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
