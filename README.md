@@ -77,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Medium/1934-confirmation-rate/) | Medium |
 | [1965-employees-with-missing-information](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Easy/1965-employees-with-missing-information/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Easy/1978-employees-whose-manager-left-the-company/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/hgim96715-lgtm/leet_sql_test/tree/main/PostgreSQL/Medium/3220-odd-and-even-transactions/) | Medium |
 <!---LeetCode Topics End-->
